@@ -17,11 +17,11 @@ const Contact = () => {
                           </li>
                           <li>
                               <i class="fa fa-phone fa-fw"></i>
-                              <a class="text-decoration-none" href="#">000-000-0000</a>
+                              <a class="text-decoration-none">000-000-0000</a>
                           </li>
                           <li>
                               <i class="fa fa-envelope fa-fw"></i>
-                              <a class="text-decoration-none" href="#">info@company.com</a>
+                              <a class="text-decoration-none">info@company.com</a>
                           </li>
                       </ul>
                   </div>
